@@ -1,6 +1,8 @@
-<p>I'm analyze the dataset on the job outcomes of students who who graduated from college between <em>2010</em> and <em>2012</em>.</p>
+<p>I analyze the dataset on the job outcomes of students who graduated from college between <em>2010</em> and <em>2012</em>.</p>
 
-<p>The original data on job outcomes was released by <a href='https://www.census.gov/programs-surveys/acs/'>American Community Survey</a>, which conducts surveys and aggregates the data. <a href='https://fivethirtyeight.com/'>FiveThirtyEight</a> cleaned the dataset and released it on their <a href='https://github.com/fivethirtyeight/data/tree/master/college-majors'>Github repo</a></p>
+<p>The original data on job outcomes was released by <a href='https://www.census.gov/programs-surveys/acs/'>American Community Survey</a>, which conducts surveys and aggregates the data. <a href='https://fivethirtyeight.com/'>FiveThirtyEight</a> cleaned the dataset and released it on their <a href='https://github.com/fivethirtyeight/data/tree/master/college-majors'>Github repo</a>.</p>
+
+<p>You cand read about some analysis <a href='https://github.com/LuKrebs/Visualizing-Earnings-Based-On-College-Majors/blob/feature/analyse/Basics.ipynb'>here</a>.
 
 <p>Each row in the dataset represents a different major in college and contains information on gender diversity, employment rates, median salaries, and more. Here are some of the columns in the dataset:</p>
 
